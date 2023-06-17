@@ -1,8 +1,7 @@
 import React, { useState } from "react";
-// import { ReactDOM } from "react";
 
 const App = () => {
-  //   const [formDetails, setFormDetails] = useState({});
+ 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
